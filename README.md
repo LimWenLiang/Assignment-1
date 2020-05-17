@@ -1,5 +1,7 @@
 ## Student Info:
-1. Matric Number & Name & Photo
+261938 Lim Wen Liang </br> </br>
+<img src="images/Lim%20Wen%20Liang%20261938.PNG" width="150" height="200">
+
 2. Other related info (if any)
 
 ## Introduction
