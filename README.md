@@ -20,6 +20,8 @@ The source code had modified by implement Runnable, create threads, implement th
 ![output](images/output_Receipt.PNG)
 
 ## UML Class Diagram
+![output](images/UML_Diagram_PosLajuMalaysia.png)
+
 ## Examples of your program  
 1. Implementing Runnable     
    ```java
