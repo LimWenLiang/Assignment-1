@@ -54,6 +54,7 @@ public class Pos {
 
     public void displayReceipt() {
         double[] grand = {Menu1_NextDayDelivery.grand(), Menu2_SameDayDelivery.grand(), Menu3_PrepaidBoxNEnvelope.grand(), Menu4_PosEkspres.grand()};
+
         double grandTotal = 0;
         String format1 = "%-30s%-10s\n",
                 format2 = "%-30s%-10.2f\n";

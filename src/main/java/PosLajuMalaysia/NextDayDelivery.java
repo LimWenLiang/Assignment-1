@@ -22,8 +22,4 @@ public class NextDayDelivery extends Pos {
         this.zone = zone;
     }
 
-    @Override
-    public void displayReceipt() {
-
-    }
 }
