@@ -1,4 +1,4 @@
-package PosLajuMalaysia;
+package my.example.PosLajuMalaysia;
 
 public class PosEkspres extends Pos {
 

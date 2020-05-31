@@ -1,4 +1,4 @@
-package PosLajuMalaysia;
+package my.example.PosLajuMalaysia;
 
 import java.util.Scanner;
 

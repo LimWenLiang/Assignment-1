@@ -1,4 +1,4 @@
-package PosLajuMalaysia;
+package my.example.PosLajuMalaysia;
 
 public class NextDayDelivery extends Pos {
 
